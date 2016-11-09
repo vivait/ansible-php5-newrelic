@@ -4,7 +4,7 @@ galaxy_info:
   author: franklin
   company: We Are Interactive
   description: Installs New Relic PHP agent
-  min_ansible_version: 2.0
+  min_ansible_version: 1.9
   license: MIT
   # Optionally specify the branch Galaxy will use when accessing the GitHub
   # repo for this role. During role install, if no tags are available,
