@@ -34,7 +34,7 @@ $ git clone https://github.com/weareinteractive/ansible-php5-newrelic.git frankl
 
 ## Dependencies
 
-* Ansible >= 2.0
+* Ansible >= 1.9
 
 ## Variables
 
